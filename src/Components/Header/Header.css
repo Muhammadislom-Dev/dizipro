@@ -1,0 +1,19 @@
+.container{
+    /* width: 1440px; */
+    margin: 0 auto;
+}
+.header{
+    margin: 10px;
+    padding: 10px;
+}
+.header-list{
+    list-style: none;
+    padding-top: 150px;
+}
+.header-img{
+    margin-left: 55px;
+}
+.header-item{
+    padding: 20px;
+}
+
